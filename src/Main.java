@@ -72,9 +72,7 @@ public class Main {
                 break;
             default:
                 System.out.println("Ошибка!!! В году 12 месяцев");
-
         }
-
 
     }
 
