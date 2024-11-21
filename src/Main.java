@@ -14,8 +14,6 @@ public class Main {
             System.out.println("Купите телефон");
         }
         //Задача№2
-        // android = 1
-        // ios = 0
         int clientDeviceYear = 2014;
         if (clientOs == 1 && clientDeviceYear < 2015) {
             System.out.println("Установите версию приложения для Android по ссылке");
